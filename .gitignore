@@ -1,0 +1,6 @@
+*.mp4
+temp_audio/
+podcast_audio.mp3
+podcast_audio_mixed.mp3
+roteiro_episodio.txt
+youtube_metadata.txt
