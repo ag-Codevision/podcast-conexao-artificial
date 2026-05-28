@@ -1,0 +1,23 @@
+Ton: Olá, mentes curiosas! Bem-vindos a mais um episódio do Conexão Artificial. Eu sou o Ton.
+
+Bia: E eu sou a Bia! E olha, Ton, as notícias de maio de 2026 estão mostrando que a gente está cruzando uma fronteira muito doida entre a biologia e a máquina.
+
+Ton: Exatamente, Bia! Para começar, a Meta AI lançou algo que parece roteiro de ficção científica: o TRIBE versão dois. Basicamente, é um modelo de Inteligência Artificial que funciona como um gêmeo digital do nosso cérebro.
+
+Bia: É surreal. Eles conseguem simular e prever como o cérebro humano reage a um som, a uma imagem ou a uma frase, sem precisar colocar a pessoa numa máquina de ressonância. O potencial disso para tratar doenças neurológicas é gigantesco. Mas, ao mesmo tempo, a gente sempre se pergunta... até onde vai essa digitalização da mente, né?
+
+Ton: Pois é, a fronteira do que é orgânico e do que é sintético está cada vez mais fina. E para rodar tudo isso, a gente precisa de muito processamento. Lembra daquela crise de energia dos data centers que a gente comentou semana passada?
+
+Bia: Como esquecer? Os robôs estavam quase roubando a luz das nossas casas! Brincadeiras à parte, é um problema sério de sustentabilidade.
+
+Ton: Mas a salvação pode vir da luz, literalmente. A Universidade da Pensilvânia acabou de apresentar chips que não usam elétrons, mas sim luz, para fazer os cálculos das IAs. É a tal da computação fotônica usando exciton-polaritons. Se isso vingar, os processadores ficam milhares de vezes mais rápidos e gastam quase nada de energia comparado aos atuais.
+
+Bia: Nossa, isso é um respiro de alívio para o planeta. Até porque, os investimentos não param. A Anthropic, aquela empresa criadora do Claude, acabou de ser avaliada em mais de novecentos bilhões de dólares. Ton, quase um trilhão de dólares em uma única startup de IA!
+
+Ton: É, o mercado acredita que os Agentes Autônomos são o novo ouro. Mas nem tudo brilha. A Anistia Internacional bateu o martelo hoje dizendo que a forma como essas empresas treinam as IAs, sugando tudo que a gente posta na internet sem perguntar, é uma violação direta dos direitos humanos e de privacidade.
+
+Bia: É o dilema do nosso século, né? Queremos a cura para doenças e computadores movidos a luz, mas qual é o preço da nossa privacidade no meio desse pacote? 
+
+Ton: Uma reflexão pesada pra fechar o dia. Vamos ficar de olho nessa briga de gigantes. Esse foi mais um Conexão Artificial. Até a próxima, pessoal!
+
+Bia: Tchau, tchau, e fiquem conectados!
