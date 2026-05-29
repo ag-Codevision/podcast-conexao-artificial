@@ -13,6 +13,14 @@
     <itunes:image href="https://ag-Codevision.github.io/podcast-conexao-artificial/capa.jpg"/>
     
         <item>
+            <title>Os Robôs Chegaram: Eles Vão Limpar a Sua Casa? | Conexão Artificial</title>
+            <description><![CDATA[Neste episódio do Conexão Artificial, discutimos a chegada oficial dos robôs humanoides domésticos ao mercado!<br>1. Robôs que cozinham, varrem e cuidam da casa.<br>2. Inteligência "Neural" que entende comandos vagos e toma decisões autônomas.<br>3. Preços despencando: por que eles estão custando o mesmo que um carro popular?<br>]]></description>
+            <pubDate>Fri, 29 May 2026 01:16:00 -0000</pubDate>
+            <enclosure url="https://ag-Codevision.github.io/podcast-conexao-artificial/episodios/28.05.2026__22.16_rob%C3%B4s_chegaram_eles_v%C3%A3o/podcast_audio_mixed.mp3" length="1631661" type="audio/mpeg"/>
+            <guid isPermaLink="false">28.05.2026__22.16_robôs_chegaram_eles_vão</guid>
+            <itunes:author>Ton e Bia</itunes:author>
+        </item>
+        <item>
             <title>IA na Medicina: O Fim da Fila de Espera nos Hospitais? | Conexão Artificial</title>
             <description><![CDATA[Descubra como a Inteligência Artificial está revolucionando a medicina! Neste episódio:<br>1. Diagnósticos em 3 segundos com 99% de precisão.<br>2. O primeiro remédio do mundo criado 100% por IA.<br>3. Sistemas preditivos de UTI que preveem paradas cardíacas horas antes.<br>]]></description>
             <pubDate>Fri, 29 May 2026 01:12:00 -0000</pubDate>
@@ -47,7 +55,7 @@
         <item>
             <title>A Nova Era da IA Agêntica e a Crise de Sustentabilidade | Conexão Artificial</title>
             <description><![CDATA[Bem-vindos ao Conexão Artificial! Hoje, Ton e Bia discutem as notícias mais quentes de maio de 2026 no mundo da tecnologia. Descubra o que é a "IA Agêntica" e por que os chatbots estão ficando no passado. Falamos também sobre a decisão do governo dos EUA de regular as gigantes de IA antes dos lançamentos, e o elefante na sala: a crise energética causada pelos Data Centers.<br><br>Assuntos abordados:<br>0:00 - Introdução: O que esperar do episódio de hoje<br>0:35 - A ascensão da IA Agêntica: Autonomia e eficiência<br>1:50 - EUA x Big Techs: A nova regulação pré-lançamento<br>3:10 - O custo invisível da IA: Energia e sustentabilidade<br>4:00 - Conclusão e reflexões finais<br><br>Acompanhe o Conexão Artificial diariamente e fique por dentro do futuro da tecnologia.<br>]]></description>
-            <pubDate>Fri, 29 May 2026 01:12:51 -0000</pubDate>
+            <pubDate>Fri, 29 May 2026 01:16:00 -0000</pubDate>
             <enclosure url="https://ag-Codevision.github.io/podcast-conexao-artificial/episodios/20260528_19.17_nova_era_ag%C3%AAntica_crise/podcast_audio_mixed.mp3" length="2074149" type="audio/mpeg"/>
             <guid isPermaLink="false">20260528_19.17_nova_era_agêntica_crise</guid>
             <itunes:author>Ton e Bia</itunes:author>
