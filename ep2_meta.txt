@@ -1,0 +1,8 @@
+Título: Os Robôs Chegaram: Eles Vão Limpar a Sua Casa? | Conexão Artificial
+Descrição:
+Neste episódio do Conexão Artificial, discutimos a chegada oficial dos robôs humanoides domésticos ao mercado!
+1. Robôs que cozinham, varrem e cuidam da casa.
+2. Inteligência "Neural" que entende comandos vagos e toma decisões autônomas.
+3. Preços despencando: por que eles estão custando o mesmo que um carro popular?
+
+Tags: ['Robotica', 'TeslaBot', 'Tecnologia', 'Futuro', 'CasaInteligente', 'Humanoides', 'PodcastTech', 'ConexaoArtificial', 'TechNews']
