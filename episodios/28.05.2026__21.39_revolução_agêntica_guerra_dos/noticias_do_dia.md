@@ -1,0 +1,7 @@
+# Notícias do Dia - Conexão Artificial
+
+1. **A Era da IA Agêntica:** O ano de 2026 está consolidando a transição dos modelos de linguagem tradicionais e passivos para "Agentes de IA" autônomos. Diferente dos chatbots que apenas respondem perguntas, os novos agentes conseguem executar tarefas complexas, navegar na internet e tomar decisões em múltiplas etapas sozinhos. Empresas como Microsoft já disponibilizam isso para uso geral.
+
+2. **A Corrida por Infraestrutura e o Crescimento Trilionário:** O Gartner projetou que os gastos globais com Inteligência Artificial crescerão 47% em 2026, atingindo um recorde histórico de US$ 2,59 trilhões. Essa corrida agora é física: enquanto os Estados Unidos dominam os microchips de ponta, a China se destaca por oferecer energia abundante e barata, elemento essencial para manter os gigantescos data centers rodando. A Anthropic, por exemplo, atingiu a marca impressionante de US$ 900 bilhões em valor de mercado.
+
+3. **Inteligência Integrada no Dia a Dia (Efeitos do Google I/O 2026):** O foco das big techs deixou de ser apenas lançar novos aplicativos e passou a ser a integração nativa da IA. As novidades de 2026 mostram que a inteligência deixou de ser um "assistente isolado" para se tornar uma camada invisível integrada em todo o ecossistema digital (Android, navegadores, ferramentas de trabalho), antecipando necessidades e atuando como uma extensão real da capacidade criativa das pessoas.
