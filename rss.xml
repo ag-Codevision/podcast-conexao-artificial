@@ -13,6 +13,14 @@
     <itunes:image href="https://ag-Codevision.github.io/podcast-conexao-artificial/capa.jpg"/>
     
         <item>
+            <title>A Primeira Cidade do Mundo 100% Controlada por Inteligência Artificial | Conexão Artificial</title>
+            <description><![CDATA[Você moraria em uma cidade controlada por um supercomputador? Neste episódio:<br>1. O fim dos semáforos: como carros autônomos evitam batidas sem parar.<br>2. A inauguração da Woven City no Japão.<br>3. Prédios que fecham a sua janela sozinhos quando vai chover.<br>]]></description>
+            <pubDate>Fri, 29 May 2026 01:43:00 -0000</pubDate>
+            <enclosure url="https://ag-Codevision.github.io/podcast-conexao-artificial/episodios/28.05.2026__22.43_primeira_cidade_mundo_100/podcast_audio_mixed.mp3" length="2272416" type="audio/mpeg"/>
+            <guid isPermaLink="false">28.05.2026__22.43_primeira_cidade_mundo_100</guid>
+            <itunes:author>Ton e Bia</itunes:author>
+        </item>
+        <item>
             <title>Inteligência Artificial no Espaço: A Conquista de Novos Mundos | Conexão Artificial</title>
             <description><![CDATA[Neste episódio do Conexão Artificial, vamos para o espaço!<br>1. Robôs pilotados por IA tomando decisões sozinhos em Marte.<br>2. IA descobre 300 novos planetas em zonas habitáveis em dados antigos.<br>3. Como os algoritmos estão cultivando comida para astronautas em gravidade zero.<br>]]></description>
             <pubDate>Fri, 29 May 2026 01:21:00 -0000</pubDate>
@@ -71,7 +79,7 @@
         <item>
             <title>A Nova Era da IA Agêntica e a Crise de Sustentabilidade | Conexão Artificial</title>
             <description><![CDATA[Bem-vindos ao Conexão Artificial! Hoje, Ton e Bia discutem as notícias mais quentes de maio de 2026 no mundo da tecnologia. Descubra o que é a "IA Agêntica" e por que os chatbots estão ficando no passado. Falamos também sobre a decisão do governo dos EUA de regular as gigantes de IA antes dos lançamentos, e o elefante na sala: a crise energética causada pelos Data Centers.<br><br>Assuntos abordados:<br>0:00 - Introdução: O que esperar do episódio de hoje<br>0:35 - A ascensão da IA Agêntica: Autonomia e eficiência<br>1:50 - EUA x Big Techs: A nova regulação pré-lançamento<br>3:10 - O custo invisível da IA: Energia e sustentabilidade<br>4:00 - Conclusão e reflexões finais<br><br>Acompanhe o Conexão Artificial diariamente e fique por dentro do futuro da tecnologia.<br>]]></description>
-            <pubDate>Fri, 29 May 2026 01:21:03 -0000</pubDate>
+            <pubDate>Fri, 29 May 2026 01:43:31 -0000</pubDate>
             <enclosure url="https://ag-Codevision.github.io/podcast-conexao-artificial/episodios/20260528_19.17_nova_era_ag%C3%AAntica_crise/podcast_audio_mixed.mp3" length="2074149" type="audio/mpeg"/>
             <guid isPermaLink="false">20260528_19.17_nova_era_agêntica_crise</guid>
             <itunes:author>Ton e Bia</itunes:author>
