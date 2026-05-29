@@ -1,0 +1,8 @@
+Título: Inventaram a Dor Artificial? A Nova Pele dos Robôs | Conexão Artificial
+Descrição:
+Você sabia que o seu próximo robô doméstico pode sentir cócegas e dor? Neste episódio:
+1. A nova "Pele Eletrônica" desenvolvida pela Universidade de Cornell.
+2. Robôs com reflexos humanos: puxando a mão do fogo!
+3. O fim dos robôs desajeitados e o começo da robótica doméstica hiper delicada.
+
+Tags: ['Robotica', 'PeleEletronica', 'InteligenciaArtificial', 'Cornell', 'Tecnologia', 'Inovacao', 'RobosDomesticos', 'PodcastTech', 'ConexaoArtificial']
