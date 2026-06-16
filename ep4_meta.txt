@@ -1,8 +1,0 @@
-Título: Inteligência Artificial no Espaço: A Conquista de Novos Mundos | Conexão Artificial
-Descrição:
-Neste episódio do Conexão Artificial, vamos para o espaço!
-1. Robôs pilotados por IA tomando decisões sozinhos em Marte.
-2. IA descobre 300 novos planetas em zonas habitáveis em dados antigos.
-3. Como os algoritmos estão cultivando comida para astronautas em gravidade zero.
-
-Tags: ['Espaco', 'IA', 'Marte', 'Exoplanetas', 'Astronomia', 'Tecnologia', 'PodcastTech', 'ConexaoArtificial', 'TechNews']
