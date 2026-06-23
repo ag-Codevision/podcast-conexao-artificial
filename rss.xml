@@ -13,11 +13,155 @@
     <itunes:image href="https://ag-Codevision.github.io/podcast-conexao-artificial/capa.jpg"/>
     
         <item>
-            <title>OpenAI e 'Sky': A Voz que Virou Polêmica!</title>
-            <description><![CDATA[Abordamos a polêmica que fez a OpenAI retirar a voz 'Sky'. A semelhança com Scarlett Johansson gerou acusações de plágio e um intenso debate ético.<br>Analisamos o impacto para o futuro das vozes sintéticas e os direitos autorais na era da inteligência artificial.]]></description>
-            <pubDate>Tue, 23 Jun 2026 03:26:00 -0000</pubDate>
-            <enclosure url="https://ag-Codevision.github.io/podcast-conexao-artificial/episodios/23.06.2026__03.26_openai_sky_voz_que/podcast_audio_mixed.mp3" length="6264309" type="audio/mpeg"/>
-            <guid isPermaLink="false">23.06.2026__03.26_openai_sky_voz_que</guid>
+            <title>A polêmica da voz da OpenAI que ninguém está falando</title>
+            <description><![CDATA[A Sky foi suspensa, mas o problema é muito mais profundo. Vamos destrinchar o que aconteceu com a voz do ChatGPT, os bastidores do Scarlett Johansson e o que isso revela sobre os limites da segurança em IA. Uma conversa que você não pode perder.]]></description>
+            <pubDate>Thu, 18 Jun 2026 02:21:00 -0000</pubDate>
+            <enclosure url="https://ag-Codevision.github.io/podcast-conexao-artificial/episodios/17.06.2026__23.21_pol%C3%AAmica_voz_openai_que/podcast_audio_mixed.mp3" length="9440300" type="audio/mpeg"/>
+            <guid isPermaLink="false">17.06.2026__23.21_polêmica_voz_openai_que</guid>
+            <itunes:author>Ton e Bia</itunes:author>
+        </item>
+        <item>
+            <title>Apple Intelligence: É TUDO ISSO MESMO?</title>
+            <description><![CDATA[A Apple finalmente revelou seu sistema de inteligência artificial, o aguardado Apple Intelligence!<br>Mas será que ele realmente entrega o que promete e vai mudar o jogo?<br>Analisamos cada detalhe, as funcionalidades e o impacto no ecossistema da Maçã.]]></description>
+            <pubDate>Tue, 16 Jun 2026 02:10:00 -0000</pubDate>
+            <enclosure url="https://ag-Codevision.github.io/podcast-conexao-artificial/episodios/15.06.2026__23.10_apple_intelligence_tudo_isso/podcast_audio_mixed.mp3" length="6677900" type="audio/mpeg"/>
+            <guid isPermaLink="false">15.06.2026__23.10_apple_intelligence_tudo_isso</guid>
+            <itunes:author>Ton e Bia</itunes:author>
+        </item>
+        <item>
+            <title>Robôs Humanoides IA: O Futuro Chegou?</title>
+            <description><![CDATA[Os robôs humanoides com inteligência artificial estão roubando a cena no mundo da tecnologia. Vamos explorar os modelos mais impressionantes, o que eles são capazes de fazer e o que isso significa para o nosso futuro. Episode 127 do Conexão Artificial!]]></description>
+            <pubDate>Tue, 09 Jun 2026 22:37:00 -0000</pubDate>
+            <enclosure url="https://ag-Codevision.github.io/podcast-conexao-artificial/episodios/09.06.2026__19.37_rob%C3%B4s_humanoides_futuro_chegou/podcast_audio_mixed.mp3" length="6599108" type="audio/mpeg"/>
+            <guid isPermaLink="false">09.06.2026__19.37_robôs_humanoides_futuro_chegou</guid>
+            <itunes:author>Ton e Bia</itunes:author>
+        </item>
+        <item>
+            <title>Google I/O: A IA Vai Mudar TUDO AGORA?</title>
+            <description><![CDATA[Desvendamos os maiores anúncios do Google I/O! Prepare-se para um mergulho profundo nas inovações de IA, Android e muito mais que vão impactar seu dia a dia.<br>Nossa equipe analisa as novidades que prometem redefinir a experiência com a tecnologia Google.<br>Não perca essa conversa essencial sobre o futuro que já começou!]]></description>
+            <pubDate>Wed, 03 Jun 2026 19:12:00 -0000</pubDate>
+            <enclosure url="https://ag-Codevision.github.io/podcast-conexao-artificial/episodios/03.06.2026__16.12_google_vai_mudar_tudo/podcast_audio_mixed.mp3" length="7568877" type="audio/mpeg"/>
+            <guid isPermaLink="false">03.06.2026__16.12_google_vai_mudar_tudo</guid>
+            <itunes:author>Ton e Bia</itunes:author>
+        </item>
+        <item>
+            <title>Google I/O: IA e o FUTURO do SEU Android!</title>
+            <description><![CDATA[Fala galera! O Google I/O 2024 chegou bombando e nós destrinchamos as maiores novidades.<br>Prepare-se para entender como a inteligência artificial, o Android 15 e outras inovações da Google vão mudar seu dia a dia.<br>Vem com a gente nessa análise completa e sem rodeios sobre tudo que rolou no evento mais esperado do ano!]]></description>
+            <pubDate>Wed, 03 Jun 2026 07:24:00 -0000</pubDate>
+            <enclosure url="https://ag-Codevision.github.io/podcast-conexao-artificial/episodios/03.06.2026__04.24_google_io_ia_futuro_android/podcast_audio_mixed.mp3" length="6792045" type="audio/mpeg"/>
+            <guid isPermaLink="false">03.06.2026__04.24_google_io_ia_futuro_android</guid>
+            <itunes:author>Ton e Bia</itunes:author>
+        </item>
+        <item>
+            <title>Testamos o Gemini 3.1 Flash TTS: O Futuro da Voz por IA Chegou!</title>
+            <description><![CDATA[Neste episódio do Conexão Artificial, Ton e Bia testam na prática o novo modelo de voz Gemini 3.1 Flash da Google no Replicate! Veja como a inteligência artificial de voz em tempo real, as clonagens de áudio expressivas e as novas marcas d'água de segurança estão revolucionando o mundo da tecnologia. Compartilhe com os amigos e deixe o seu like!]]></description>
+            <pubDate>Wed, 03 Jun 2026 05:28:00 -0000</pubDate>
+            <enclosure url="https://ag-Codevision.github.io/podcast-conexao-artificial/episodios/03.06.2026__02.28_testamos_gemini_flash_tts/podcast_audio_mixed.mp3" length="1385709" type="audio/mpeg"/>
+            <guid isPermaLink="false">03.06.2026__02.28_testamos_gemini_flash_tts</guid>
+            <itunes:author>Ton e Bia</itunes:author>
+        </item>
+        <item>
+            <title>Robôs Domésticos Dominam 2026? Descubra!</title>
+            <description><![CDATA[A invasão silenciosa dos robôs domésticos em 2026.<br>Quem está realmente no comando das nossas casas?<br>Este episódio desvenda a revolução que mudou nossas jornadas diárias.]]></description>
+            <pubDate>Fri, 29 May 2026 10:16:00 -0000</pubDate>
+            <enclosure url="https://ag-Codevision.github.io/podcast-conexao-artificial/episodios/29.05.2026__07.16_rob%C3%B4s_dom%C3%A9sticos_dominam_2026/podcast_audio_mixed.mp3" length="1307833" type="audio/mpeg"/>
+            <guid isPermaLink="false">29.05.2026__07.16_robôs_domésticos_dominam_2026</guid>
+            <itunes:author>Ton e Bia</itunes:author>
+        </item>
+        <item>
+            <title>O Fim dos Smartphones: Implantes Cerebrais e Privacidade Mental | Conexão Artificial</title>
+            <description><![CDATA[Você seria capaz de colocar um chip no cérebro para aprender novos idiomas em segundos? Neste episódio:<br>1. O primeiro download de habilidades cerebrais da história.<br>2. O fim da era dos smartphones e a ascensão das lentes holográficas.<br>3. A polêmica da "Lei de Proteção de Pensamentos" contra anúncios invasivos.<br>Não esqueça de curtir e se inscrever!]]></description>
+            <pubDate>Fri, 29 May 2026 09:03:00 -0000</pubDate>
+            <enclosure url="https://ag-Codevision.github.io/podcast-conexao-artificial/episodios/29.05.2026__06.03_fim_dos_smartphones_implantes/podcast_audio_mixed.mp3" length="1421540" type="audio/mpeg"/>
+            <guid isPermaLink="false">29.05.2026__06.03_fim_dos_smartphones_implantes</guid>
+            <itunes:author>Ton e Bia</itunes:author>
+        </item>
+        <item>
+            <title>Inventaram a Dor Artificial? A Nova Pele dos Robôs | Conexão Artificial</title>
+            <description><![CDATA[Você sabia que o seu próximo robô doméstico pode sentir cócegas e dor? Neste episódio:<br>1. A nova "Pele Eletrônica" desenvolvida pela Universidade de Cornell.<br>2. Robôs com reflexos humanos: puxando a mão do fogo!<br>3. O fim dos robôs desajeitados e o começo da robótica doméstica hiper delicada.<br>]]></description>
+            <pubDate>Fri, 29 May 2026 02:44:00 -0000</pubDate>
+            <enclosure url="https://ag-Codevision.github.io/podcast-conexao-artificial/episodios/28.05.2026__23.44_inventaram_dor_artificial_nova/podcast_audio_mixed.mp3" length="1897895" type="audio/mpeg"/>
+            <guid isPermaLink="false">28.05.2026__23.44_inventaram_dor_artificial_nova</guid>
+            <itunes:author>Ton e Bia</itunes:author>
+        </item>
+        <item>
+            <title>Energia Infinita: O Sol Engarrafado Chegou! | Conexão Artificial</title>
+            <description><![CDATA[Você está pronto para o fim da conta de luz e das baterias? Neste episódio:<br>1. O recorde histórico da Fusão Nuclear: 5 horas de energia contínua.<br>2. Como a Inteligência Artificial ajudou a domar temperaturas 10x mais quentes que o Sol.<br>3. O primeiro reator comercial programado para 2029.<br>]]></description>
+            <pubDate>Fri, 29 May 2026 02:20:00 -0000</pubDate>
+            <enclosure url="https://ag-Codevision.github.io/podcast-conexao-artificial/episodios/28.05.2026__23.20_energia_infinita_sol_engarrafado/podcast_audio_mixed.mp3" length="2043745" type="audio/mpeg"/>
+            <guid isPermaLink="false">28.05.2026__23.20_energia_infinita_sol_engarrafado</guid>
+            <itunes:author>Ton e Bia</itunes:author>
+        </item>
+        <item>
+            <title>A Primeira Cidade do Mundo 100% Controlada por Inteligência Artificial | Conexão Artificial</title>
+            <description><![CDATA[Você moraria em uma cidade controlada por um supercomputador? Neste episódio:<br>1. O fim dos semáforos: como carros autônomos evitam batidas sem parar.<br>2. A inauguração da Woven City no Japão.<br>3. Prédios que fecham a sua janela sozinhos quando vai chover.<br>]]></description>
+            <pubDate>Fri, 29 May 2026 01:43:00 -0000</pubDate>
+            <enclosure url="https://ag-Codevision.github.io/podcast-conexao-artificial/episodios/28.05.2026__22.43_primeira_cidade_mundo_100/podcast_audio_mixed.mp3" length="2272416" type="audio/mpeg"/>
+            <guid isPermaLink="false">28.05.2026__22.43_primeira_cidade_mundo_100</guid>
+            <itunes:author>Ton e Bia</itunes:author>
+        </item>
+        <item>
+            <title>Inteligência Artificial no Espaço: A Conquista de Novos Mundos | Conexão Artificial</title>
+            <description><![CDATA[Neste episódio do Conexão Artificial, vamos para o espaço!<br>1. Robôs pilotados por IA tomando decisões sozinhos em Marte.<br>2. IA descobre 300 novos planetas em zonas habitáveis em dados antigos.<br>3. Como os algoritmos estão cultivando comida para astronautas em gravidade zero.<br>]]></description>
+            <pubDate>Fri, 29 May 2026 01:21:00 -0000</pubDate>
+            <enclosure url="https://ag-Codevision.github.io/podcast-conexao-artificial/episodios/28.05.2026__22.21_intelig%C3%AAncia_artificial_espa%C3%A7o_conquista/podcast_audio_mixed.mp3" length="1244901" type="audio/mpeg"/>
+            <guid isPermaLink="false">28.05.2026__22.21_inteligência_artificial_espaço_conquista</guid>
+            <itunes:author>Ton e Bia</itunes:author>
+        </item>
+        <item>
+            <title>O Fim das Senhas e a Chegada da Era Quântica | Conexão Artificial</title>
+            <description><![CDATA[Neste episódio do Conexão Artificial:<br>1. O temido "Q-Day" e os computadores quânticos quebrando senhas.<br>2. Como a Inteligência Artificial mudou a guerra cibernética global.<br>3. Biometria Comportamental: a IA te conhece pelo seu jeito de teclar!<br>]]></description>
+            <pubDate>Fri, 29 May 2026 01:18:00 -0000</pubDate>
+            <enclosure url="https://ag-Codevision.github.io/podcast-conexao-artificial/episodios/28.05.2026__22.18_fim_das_senhas_chegada/podcast_audio_mixed.mp3" length="1009005" type="audio/mpeg"/>
+            <guid isPermaLink="false">28.05.2026__22.18_fim_das_senhas_chegada</guid>
+            <itunes:author>Ton e Bia</itunes:author>
+        </item>
+        <item>
+            <title>Os Robôs Chegaram: Eles Vão Limpar a Sua Casa? | Conexão Artificial</title>
+            <description><![CDATA[Neste episódio do Conexão Artificial, discutimos a chegada oficial dos robôs humanoides domésticos ao mercado!<br>1. Robôs que cozinham, varrem e cuidam da casa.<br>2. Inteligência "Neural" que entende comandos vagos e toma decisões autônomas.<br>3. Preços despencando: por que eles estão custando o mesmo que um carro popular?<br>]]></description>
+            <pubDate>Fri, 29 May 2026 01:16:00 -0000</pubDate>
+            <enclosure url="https://ag-Codevision.github.io/podcast-conexao-artificial/episodios/28.05.2026__22.16_rob%C3%B4s_chegaram_eles_v%C3%A3o/podcast_audio_mixed.mp3" length="1631661" type="audio/mpeg"/>
+            <guid isPermaLink="false">28.05.2026__22.16_robôs_chegaram_eles_vão</guid>
+            <itunes:author>Ton e Bia</itunes:author>
+        </item>
+        <item>
+            <title>IA na Medicina: O Fim da Fila de Espera nos Hospitais? | Conexão Artificial</title>
+            <description><![CDATA[Descubra como a Inteligência Artificial está revolucionando a medicina! Neste episódio:<br>1. Diagnósticos em 3 segundos com 99% de precisão.<br>2. O primeiro remédio do mundo criado 100% por IA.<br>3. Sistemas preditivos de UTI que preveem paradas cardíacas horas antes.<br>]]></description>
+            <pubDate>Fri, 29 May 2026 01:12:00 -0000</pubDate>
+            <enclosure url="https://ag-Codevision.github.io/podcast-conexao-artificial/episodios/28.05.2026__22.12_medicina_fim_fila_espera/podcast_audio_mixed.mp3" length="2075493" type="audio/mpeg"/>
+            <guid isPermaLink="false">28.05.2026__22.12_medicina_fim_fila_espera</guid>
+            <itunes:author>Ton e Bia</itunes:author>
+        </item>
+        <item>
+            <title>A Revolução da IA Agêntica e a Guerra dos Trilhões | Conexão Artificial</title>
+            <description><![CDATA[Neste episódio do Conexão Artificial, mergulhamos nas três grandes novidades que estão moldando o futuro da tecnologia:<br>1. A transição dos antigos chatbots para a nova "IA Agêntica", que consegue trabalhar e tomar decisões sozinha.<br>2. Os números absurdos do mercado, com gastos na casa dos 2,59 trilhões de dólares e a guerra por energia e infraestrutura.<br>3. Como as inovações (como as mostradas no Google I/O 2026) estão transformando a inteligência artificial numa camada invisível nos nossos celulares.<br><br>Não esqueça de se inscrever e compartilhar com os amigos que amam tecnologia!]]></description>
+            <pubDate>Fri, 29 May 2026 00:39:00 -0000</pubDate>
+            <enclosure url="https://ag-Codevision.github.io/podcast-conexao-artificial/episodios/28.05.2026__21.39_revolu%C3%A7%C3%A3o_ag%C3%AAntica_guerra_dos/podcast_audio_mixed.mp3" length="3514965" type="audio/mpeg"/>
+            <guid isPermaLink="false">28.05.2026__21.39_revolução_agêntica_guerra_dos</guid>
+            <itunes:author>Ton e Bia</itunes:author>
+        </item>
+        <item>
+            <title>TRIBE v2: A IA que simula o cérebro humano | Conexão Artificial</title>
+            <description><![CDATA[Bem-vindos ao Conexão Artificial! Hoje, Ton e Bia discutem as últimas grandes novidades do universo da inteligência artificial de forma simples e descontraída. Começamos falando sobre como a IA está revolucionando o mercado de trabalho com as implantações massivas da KPMG e a nova subsidiária bilionária da OpenAI focada em consultoria.<br><br>Também abordamos como o novo "Projeto Lightwell" da IBM e Red Hat vai usar IA para criar um escudo protetor contra ataques cibernéticos em todo o mundo open-source.<br><br>Por fim, debatemos a grande novidade do momento: o TRIBE v2 da Meta, um gêmeo digital do cérebro humano que promete revolucionar a medicina, mas também acende alertas importantes sobre o futuro da privacidade na manipulação comportamental.<br><br>Gostou do papo? Compartilhe com os amigos e não se esqueça de se inscrever para não perder o episódio de amanhã!<br><br>Assuntos abordados:<br>- IA no mercado corporativo e a nova estratégia da OpenAI e KPMG.<br>- Projeto Lightwell: 5 bilhões na segurança cibernética open-source.<br>- TRIBE v2: O modelo da Meta que mapeia e simula reações neurais humanas.<br>- O dilema ético: privacidade, medicina e publicidade na era do cérebro digital.<br>]]></description>
+            <pubDate>Thu, 28 May 2026 23:24:00 -0000</pubDate>
+            <enclosure url="https://ag-Codevision.github.io/podcast-conexao-artificial/episodios/28.05.2026__20.24_tribe_que_simula_c%C3%A9rebro/podcast_audio_mixed.mp3" length="3629445" type="audio/mpeg"/>
+            <guid isPermaLink="false">28.05.2026__20.24_tribe_que_simula_cérebro</guid>
+            <itunes:author>Ton e Bia</itunes:author>
+        </item>
+        <item>
+            <title>A Fronteira entre Biologia e Máquina | Conexão Artificial</title>
+            <description><![CDATA[Bem-vindos ao Conexão Artificial! Hoje, Ton e Bia discutem as notícias tecnológicas mais importantes de maio de 2026. Mergulhamos no lançamento do TRIBE v2 da Meta AI, um impressionante gêmeo digital do cérebro humano que pode revolucionar a medicina neurológica. Também abordamos os chips de computação fotônica à base de luz e o assustador valuation de US$ 900 bilhões da Anthropic.<br><br>No fim, uma reflexão filosófica urgente: até onde as IAs podem ir para raspar nossos dados na internet sem ferir a nossa privacidade?<br><br>Assuntos abordados:<br>0:00 - Introdução ao episódio<br>0:15 - Meta AI lança o TRIBE v2, o Gêmeo Digital do cérebro<br>1:00 - Crise de sustentabilidade e a Fotônica baseada em luz<br>1:45 - O impressionante valuation da Anthropic<br>2:10 - O dilema da raspagem de dados e direitos de privacidade (Alerta da Anistia Internacional)<br>2:30 - Reflexões finais<br><br>Assine o canal para não perder os episódios diários do Conexão Artificial!<br>]]></description>
+            <pubDate>Thu, 28 May 2026 22:31:00 -0000</pubDate>
+            <enclosure url="https://ag-Codevision.github.io/podcast-conexao-artificial/episodios/28.05.2026__19.31_fronteira_entre_biologia_m%C3%A1quina/podcast_audio_mixed.mp3" length="1437813" type="audio/mpeg"/>
+            <guid isPermaLink="false">28.05.2026__19.31_fronteira_entre_biologia_máquina</guid>
+            <itunes:author>Ton e Bia</itunes:author>
+        </item>
+        <item>
+            <title>A Nova Era da IA Agêntica e a Crise de Sustentabilidade | Conexão Artificial</title>
+            <description><![CDATA[Bem-vindos ao Conexão Artificial! Hoje, Ton e Bia discutem as notícias mais quentes de maio de 2026 no mundo da tecnologia. Descubra o que é a "IA Agêntica" e por que os chatbots estão ficando no passado. Falamos também sobre a decisão do governo dos EUA de regular as gigantes de IA antes dos lançamentos, e o elefante na sala: a crise energética causada pelos Data Centers.<br><br>Assuntos abordados:<br>0:00 - Introdução: O que esperar do episódio de hoje<br>0:35 - A ascensão da IA Agêntica: Autonomia e eficiência<br>1:50 - EUA x Big Techs: A nova regulação pré-lançamento<br>3:10 - O custo invisível da IA: Energia e sustentabilidade<br>4:00 - Conclusão e reflexões finais<br><br>Acompanhe o Conexão Artificial diariamente e fique por dentro do futuro da tecnologia.<br>]]></description>
+            <pubDate>Tue, 23 Jun 2026 03:34:17 -0000</pubDate>
+            <enclosure url="https://ag-Codevision.github.io/podcast-conexao-artificial/episodios/20260528_19.17_nova_era_ag%C3%AAntica_crise/podcast_audio_mixed.mp3" length="2074149" type="audio/mpeg"/>
+            <guid isPermaLink="false">20260528_19.17_nova_era_agêntica_crise</guid>
             <itunes:author>Ton e Bia</itunes:author>
         </item>
   </channel>
