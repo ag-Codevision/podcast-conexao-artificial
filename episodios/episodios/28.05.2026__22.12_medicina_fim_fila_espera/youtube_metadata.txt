@@ -1,0 +1,8 @@
+Título: IA na Medicina: O Fim da Fila de Espera nos Hospitais? | Conexão Artificial
+Descrição:
+Descubra como a Inteligência Artificial está revolucionando a medicina! Neste episódio:
+1. Diagnósticos em 3 segundos com 99% de precisão.
+2. O primeiro remédio do mundo criado 100% por IA.
+3. Sistemas preditivos de UTI que preveem paradas cardíacas horas antes.
+
+Tags: ['Medicina', 'InteligenciaArtificial', 'Saude', 'Diagnostico', 'Futuro', 'Inovacao', 'PodcastTech', 'ConexaoArtificial', 'TechNews']

@@ -1,0 +1,25 @@
+Ton: Olá, seja muito bem-vindo, seja muito bem-vinda a mais um episódio do Conexão Artificial! Eu sou o Ton e hoje é dia de desbravarmos as fronteiras da inovação juntos.
+
+Bia: E eu sou a Bia! É ótimo estar aqui de novo. Hoje nós temos um programa daqueles, Ton... Vamos falar sobre a tal "IA Agêntica", sobre o cerco apertando lá nos Estados Unidos para as grandes empresas de tecnologia, e também sobre algo que muita gente esquece: a energia que tudo isso gasta.
+
+Ton: Exatamente, Bia. E para começar, vamos direto ao assunto do momento em maio de 2026. Esqueça aqueles chatbots que apenas respondem perguntas. A tendência absoluta agora é a "IA Agêntica". Estamos vendo a consolidação de sistemas que funcionam como verdadeiros agentes autônomos. Eles operam sozinhos, executam fluxos de trabalho complexos e tomam decisões sem que o humano precise estar ali supervisionando cada clique.
+
+Bia: Isso é fascinante, mas me dá um frio na barriga, viu? A eficiência é incrível, mas até que ponto a gente pode terceirizar as decisões da nossa vida? Se a IA começa a operar nossos e-mails, nossas agendas e até decisões financeiras nos bastidores... Onde fica o nosso controle sobre a nossa própria rotina? Será que não estamos virando passageiros nas nossas próprias vidas?
+
+Ton: Essa é a grande reflexão da década, Bia. A eficiência tem um preço, e o preço geralmente é abrir mão do controle manual. E falando em controle, quem também está querendo pegar as rédeas dessa carruagem é o governo dos Estados Unidos.
+
+Bia: Ah, sim! Essa notícia deu o que falar. O governo americano agora exige que as gigantes, como a OpenAI, a Google DeepMind e a xAI, deem um acesso antecipado aos seus novos modelos de Inteligência Artificial. Eles querem testar tudo contra falhas de segurança antes do lançamento público. 
+
+Ton: É uma mudança de postura bem radical. Antes, a inovação corria solta e a regulação tentava acompanhar correndo atrás. Agora, o Estado quer ser o porteiro da tecnologia. Mas eu me pergunto: essa intervenção governamental atrasa o progresso tecnológico ou é o único freio que sobrou para evitar que um modelo defeituoso cause danos em escala global?
+
+Bia: Olha, Ton... Acho que é um mal necessário. A gente já viu o estrago que algoritmos não regulados podem fazer. Ter uma barreira de segurança antes de colocar uma IA superpoderosa nas mãos de bilhões de pessoas me parece sensato. O desafio é não deixar que isso vire um monopólio de quem passa nesse "teste" do governo.
+
+Ton: Concordo plenamente. É uma linha tênue entre segurança e burocracia. E por último, mas não menos importante, temos o elefante na sala: a crise energética. Com o boom dessas IAs agênticas, os data centers ao redor do mundo estão consumindo uma quantidade absurda de energia. As empresas estão em uma corrida desesperada por hardware mais eficiente.
+
+Bia: Esse ponto me pega muito. A gente fala de um futuro brilhante e super inteligente, mas e se esse futuro derreter o planeta antes? A IA gasta recursos físicos, reais, água para resfriamento de servidores, eletricidade... O nosso avanço rumo a essa Inteligência Artificial Geral tem que vir acompanhado de sustentabilidade. Não adianta criar uma máquina onisciente em um planeta inabitável.
+
+Ton: Uma provocação excelente para encerrarmos o programa de hoje. A tecnologia não existe no vácuo, ela consome a nossa energia mental e a energia do nosso planeta. É preciso inovar, mas com responsabilidade.
+
+Bia: É isso aí! Muito obrigada por acompanhar mais um Conexão Artificial. E você que está ouvindo, o que acha de deixar uma IA cuidar da sua agenda enquanto você vai plantar uma árvore? Pense nisso!
+
+Ton: Um grande abraço a todos e até a próxima conexão!

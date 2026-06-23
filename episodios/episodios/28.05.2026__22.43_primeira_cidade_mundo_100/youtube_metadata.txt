@@ -1,0 +1,8 @@
+Título: A Primeira Cidade do Mundo 100% Controlada por Inteligência Artificial | Conexão Artificial
+Descrição:
+Você moraria em uma cidade controlada por um supercomputador? Neste episódio:
+1. O fim dos semáforos: como carros autônomos evitam batidas sem parar.
+2. A inauguração da Woven City no Japão.
+3. Prédios que fecham a sua janela sozinhos quando vai chover.
+
+Tags: ['CidadeInteligente', 'WovenCity', 'Japao', 'IA', 'Futuro', 'CarrosAutonomos', 'Tecnologia', 'PodcastTech', 'ConexaoArtificial']

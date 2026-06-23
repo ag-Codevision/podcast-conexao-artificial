@@ -1,0 +1,19 @@
+Título: TRIBE v2: A IA que simula o cérebro humano | Conexão Artificial
+
+Descrição:
+Bem-vindos ao Conexão Artificial! Hoje, Ton e Bia discutem as últimas grandes novidades do universo da inteligência artificial de forma simples e descontraída. Começamos falando sobre como a IA está revolucionando o mercado de trabalho com as implantações massivas da KPMG e a nova subsidiária bilionária da OpenAI focada em consultoria. 
+
+Também abordamos como o novo "Projeto Lightwell" da IBM e Red Hat vai usar IA para criar um escudo protetor contra ataques cibernéticos em todo o mundo open-source.
+
+Por fim, debatemos a grande novidade do momento: o TRIBE v2 da Meta, um gêmeo digital do cérebro humano que promete revolucionar a medicina, mas também acende alertas importantes sobre o futuro da privacidade na manipulação comportamental.
+
+Gostou do papo? Compartilhe com os amigos e não se esqueça de se inscrever para não perder o episódio de amanhã!
+
+Assuntos abordados:
+- IA no mercado corporativo e a nova estratégia da OpenAI e KPMG.
+- Projeto Lightwell: 5 bilhões na segurança cibernética open-source.
+- TRIBE v2: O modelo da Meta que mapeia e simula reações neurais humanas.
+- O dilema ético: privacidade, medicina e publicidade na era do cérebro digital.
+
+Tags:
+#InteligenciaArtificial #Tecnologia #MetaAI #OpenAI #Ciberseguranca #PodcastTech #Inovacao #ConexaoArtificial #Futuro #NoticiasTech
